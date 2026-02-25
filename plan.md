@@ -80,6 +80,7 @@ API（Application Programming Interface）即**应用程序编程接口**，就�
 
 - 看一套 Web 全栈入门课程（快速过一遍）
 - 不追求深度，只追求：能在脑子里画出一张图——用户 → 前端 → HTTP → 后端 → 数据库，以及“本地应用 vs 浏览器里打开的 Web 应用”的区别
+- https://www.bilibili.com/video/BV1FPCzYdEeH/?spm_id_from=333.337.search-card.all.click&vd_source=829b36c64b2c2bacc99c16e50ae42bbc
 
 ---
 
